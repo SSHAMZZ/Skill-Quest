@@ -1,4 +1,5 @@
-{
+{ 
+  "homepage": "https://sshamzz.github.io/Skill-Quest/"
   "name": "brainwave",
   "private": true,
   "version": "0.0.0",
@@ -8,8 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "npm run build && cp -r dist/* docs/"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -33,6 +33,6 @@
     "tailwindcss": "^3.4.13",
     "vite": "^5.4.1"
   },
-  "homepage": "https://sshamzz.github.io/Skill-Quest/"
+  
 }
 
