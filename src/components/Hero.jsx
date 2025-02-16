@@ -36,8 +36,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Unleash the Power of AI with Skill Quest. Enhance your learning
-            experience and boost your skills with our innovative platform.
+            Discover a new way of learning with Skill Quest. Unlock personalized growth and boost your skills with our dynamic platform.
           </p>
           <Button white>Get Started</Button>
         </div>

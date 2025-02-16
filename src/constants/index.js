@@ -79,7 +79,7 @@ export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
   "Logical Reasoning",
-  "Conflict Resolutionr",
+  "Conflict Resolution",
   "Influential Opinions",
 ];
 
